@@ -22,26 +22,37 @@ var port = 8080; //select a port for this server to run on
 var users;
 var data;
 
-var GoogleNews, googleNews, track;
+var GoogleNews, googleNews;
 
 GoogleNews = require('google-news');
 googleNews = new GoogleNews();
 
-track = 'bieber';
 
-googleNews.stream(track, function(stream) {
-  
-  stream.on(GoogleNews.DATA, function(data) {
-  io.emit('article', data.description);
-    return console.log('Data Event received... ' + data.link);
- //   return console.log('Data Event received... ' + JSON.stringify(data));
+/****
+* GOOGLE NEWS SEARCH FUNCTION
+* ==============================================
+*
+*/
+function getNews(query){
+  var numStoriesReported = 0;
+  googleNews.stream(query, function(stream) {
 
+    stream.on(GoogleNews.DATA, function(data) {
+      io.emit('article', data.description);
+      numStoriesReported++;
+      // console.log("storyNumber: "+numStoriesReported);
+      return console.log('News Event #'.cyan+numStoriesReported+': '.cyan + data.title);
+   //   return console.log('Data Event received... ' + JSON.stringify(data));
+
+    });
+
+    stream.on(GoogleNews.ERROR, function(error) {
+      return console.log('Error Event received... ' + error);
+    });
   });
-  
-  stream.on(GoogleNews.ERROR, function(error) {
-    return console.log('Error Event received... ' + error);
-  });
-});
+}
+
+
 
 /****
 * TWITTER configuration
@@ -96,47 +107,21 @@ app.use(express.static(__dirname+ '/public'));
 * ROUTES
 * ==============================================
 * - these are the HTTP /routes that we can hit
-*
+* - NOTE: you're not using any routes right now. no need, yet...
 */
 
 //input GET route for when we are SAVING DATA to our database
-app.get('/input', function(req,res){ // expecting:  localhost:8080/input?name=myName&data=myData
-  console.log(">> /INPUT query from URL: ".cyan + JSON.stringify(req.query));
-  res.send(">> /INPUT query from URL: " + JSON.stringify(req.query));
+// app.get('/input', function(req,res){ // expecting:  localhost:8080/input?name=myName&data=myData
+//   console.log(">> /INPUT query from URL: ".cyan + JSON.stringify(req.query));
+//   res.send(">> /INPUT query from URL: " + JSON.stringify(req.query));
+// });
 
-}); //end app.get('/input')
 
-
-//output GET route for when we are READING data from database
-app.get("/output",function(req,res){ // /output?name=myName
-	console.log(">> /OUTPUT query from URL: ".yellow+JSON.stringify(req.query));
-  res.send(">> /OUTPUT query from URL: "+JSON.stringify(req.query));
-  //
-  // if(req.query.name != null){ //checking to see if a username was passed in by URL
-  //
-  //   //there is a user, return this user
-  //   getDataByUser(req.query,function(error, output){
-  //     if(!error && output){
-  //       // console.log(JSON.stringify(output, null, '\t'));
-  //       res.set('Content-Type', 'application/json');
-  //       res.end(JSON.stringify(output, null, '\t'));
-  //     }else{
-  //       res.send("error: "+error);
-  //     }
-  //   }); //end getDataByUser
-  // }
-  // else {
-  //   //no user found, just give us all the data
-  //   getAllData(req.query, function(error, output){
-  //     if(!error && output){
-  //       // console.log(JSON.stringify(output, null, '\t'));
-  //       res.set('Content-Type', 'application/json');
-  //       res.end("getAllData: \n"+JSON.stringify(output, null, '\t'));
-  //     }else{
-  //       res.send("error: "+error);
-  //     }
-  //   })
-});
+// //output GET route for when we are READING data from database
+// app.get("/output",function(req,res){ // /output?name=myName
+// 	console.log(">> /OUTPUT query from URL: ".yellow+JSON.stringify(req.query));
+//   res.send(">> /OUTPUT query from URL: "+JSON.stringify(req.query));
+// });
 
 
 
@@ -156,7 +141,7 @@ var server=http.createServer(app).listen(port, function(){
 
 
 /****
-* START UP SOCKET SERVERS
+* START UP SOCKET SERVERS TO COMMUNICATE WITH FRONT END
 * ==============================================
 *
 */
@@ -170,7 +155,17 @@ io.on('connection', function(websocket){
   console.log(">>> new websocket client connection made".green)
   // console.log(util.inspect(websocket)); //whoa there!! whole bunch of info...
 
-  //when we get a websocket event named "search"
+
+  //---- NEWS SOCKET COMMANDS
+  //when we get a websocket event for 'news-search'
+  websocket.on('news-search', function(data){
+    console.log("executing news search for: "+JSON.stringify(data));
+    getNews(data); //pass in the query from the front end data!
+  });
+
+
+  //---- TWITTER SOCKET COMMANDS
+  //when we get a websocket event named "search" -- twitter search!
   websocket.on('search', function(data){
     //do something with the data you just got?
     console.log("socket IO search: ".cyan + JSON.stringify(data));
