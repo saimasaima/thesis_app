@@ -12,7 +12,7 @@ $(document).ready(function() {
 $('a.load-news-1').on('click', function(event){
   event.preventDefault();
   console.log("click on a.load-news-1");
-  socket.emit('news-search', 'basketball');
+  socket.emit('news-search', 'two-detroits');
 });
 
 
