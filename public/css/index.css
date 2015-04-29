@@ -1,0 +1,221 @@
+.version.index /* version checker */
+{
+	color: #0000F1;
+	background-color: #028CC7;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	padding-bottom: 63px;
+	width: 0.01px;
+}
+
+#pu85
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u85
+{
+	z-index: 2;
+	height: 1146px;
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/detroit_industry960x1200.jpg") repeat-y center center;
+}
+
+#u85-bw
+{
+	z-index: 2;
+	height: 1146px;
+}
+
+#u127
+{
+	z-index: 3;
+	height: 99px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-width: 1px 0px;
+	background: transparent url("../images/_compiled960.jpg") repeat-y center center;
+}
+
+#u127-bw
+{
+	z-index: 3;
+	margin-top: 637px;
+	height: 99px;
+}
+
+#u156
+{
+	z-index: 7;
+	width: 960px;
+	height: 393px;
+	background-color: #2E3192;
+	margin-top: 277px;
+	position: relative;
+}
+
+#ppu107
+{
+	width: 0.01px;
+	margin-top: 45px;
+}
+
+#pu107
+{
+	z-index: 4;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu166-11
+{
+	width: 0.01px;
+	position: relative;
+	left: 20px;
+	padding-top: 22px;
+	z-index: 2;
+	padding-bottom: 16px;
+}
+
+#u166-11
+{
+	z-index: 8;
+	width: 269px;
+	min-height: 450px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu175
+{
+	z-index: 5;
+	width: 0.01px;
+	position: relative;
+	margin-bottom: -1px;
+	margin-right: -10000px;
+	margin-left: 325px;
+}
+
+#pu176-20
+{
+	width: 0.01px;
+	position: relative;
+	left: 20px;
+	padding-top: 22px;
+	z-index: 2;
+	padding-bottom: 17px;
+}
+
+#u176-20
+{
+	z-index: 19;
+	width: 269px;
+	min-height: 876px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u166-4,#u166-6,#u176-4,#u176-6
+{
+	font-size: 12px;
+	line-height: 14px;
+	font-weight: bold;
+}
+
+#pu180
+{
+	z-index: 6;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-left: 651px;
+}
+
+#u107,#u175,#u180
+{
+	z-index: 0;
+	width: 308px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #7F7F7F;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu181-46
+{
+	width: 0.01px;
+	position: relative;
+	left: 20px;
+	padding-top: 21px;
+	z-index: 2;
+	padding-bottom: 16px;
+}
+
+#u181-46
+{
+	z-index: 39;
+	width: 269px;
+	min-height: 709px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u166-2,#u166-7,#u176-2,#u176-7,#u181-2,#u181-3,#u181-5,#u181-7,#u181-12,#u181-14,#u181-19,#u181-21,#u181-26,#u181-28,#u181-33,#u181-35,#u181-40,#u181-42
+{
+	font-size: 16px;
+	line-height: 19px;
+	font-weight: bold;
+}
+
+#u166-9,#u176-9,#u176-10,#u176-12,#u176-13,#u176-15,#u176-16,#u176-18,#u181-9,#u181-10,#u181-16,#u181-17,#u181-23,#u181-24,#u181-30,#u181-31,#u181-37,#u181-38,#u181-44
+{
+	font-size: 14px;
+	font-weight: normal;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

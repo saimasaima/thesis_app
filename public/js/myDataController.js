@@ -9,7 +9,7 @@ $(document).ready(function() {
 // >>>> jQUERY CLICK LISTENERS, etc <<<<<<
 
 //when you click on "[ click to load news article ]" :
-$('a.load-news-1').on('click', function(event){
+$('div.load-news-1').on('click', function(event){
   event.preventDefault();
   console.log("click on a.load-news-1");
   socket.emit('news-search', 'two-detroits');

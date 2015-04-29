@@ -15,7 +15,9 @@
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
-</script>
+  </script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
    </head>
  <body>
 
@@ -29,13 +31,18 @@
       <div id="u127"><!-- simple frame --></div>
      </div>
     </div>
-    <div class="colelem" id="u156"><!-- simple frame --></div>
+    <div class="colelem load-news-1" id="u156"><!-- simple frame -->
+
+    </div>
     <div class="clearfix colelem" id="ppu107"><!-- group -->
+     
      <div class="grpelem" id="pu107"><!-- inclusion -->
+
       <div id="u107"><!-- simple frame --></div>
       <div class="clearfix" id="pu166-11"><!-- group -->
        <div class="clearfix grpelem" id="u166-11" data-muse-uid="U166"><!-- content -->
         <!-- m_editable region-id="editable-static-tag-U166" template="index.html" data-type="html" data-ice-options="disableImageResize,none" -->
+
         <p id="u166-2">Title of article that I curate</p>
         <p id="u166-4">Date</p>
         <p id="u166-6">Name of writer</p>
@@ -69,6 +76,8 @@
       <div id="u180"><!-- simple frame --></div>
       <div class="clearfix" id="pu181-46"><!-- group -->
        <div class="clearfix grpelem" id="u181-46" data-muse-uid="U181"><!-- content -->
+        <!-- <a href='' class="load-news-1">[ click to load news articles ]</a> -->
+        <p class='article'></p>
         <!-- m_editable region-id="editable-static-tag-U181" template="index.html" data-type="html" data-ice-options="disableImageResize,none" -->
 <!--         <p id="u181-2">List of rest of the articles</p>
         <p id="u181-3">&nbsp;</p>
@@ -104,6 +113,7 @@
    </div>
   </div>
   <!-- JS includes -->
+  <script src="./js/myDataController.js"></script>
   <script type="text/javascript">
    if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
 </script>
