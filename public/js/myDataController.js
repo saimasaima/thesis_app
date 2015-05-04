@@ -15,6 +15,11 @@ $('div.load-news-1').on('click', function(event){
   socket.emit('news-search', 'two-detroits');
 });
 
+$('img.grcc').on('click', function(event){
+  event.preventDefault();
+  console.log("click on a.load-news-1");
+  socket.emit('news-search', 'two-detroits');
+});
 
 // Whenever you click on the #restart div, open the search prompt
 // $("#restart").click(function(event){

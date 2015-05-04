@@ -1,7 +1,7 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430335953171">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430347829822">
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
-    <file name="index.css" crc="4043476167" ref="index"/>
+    <file name="index.css" crc="312400547" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index"/>
@@ -13,5 +13,5 @@
     <file name="detroit_industry960x1200.jpg" crc="303226978" ref="index"/>
     <file name="_compiled960.jpg" crc="3815918891" ref="index"/>
   </folder>
-  <file name="index.html" crc="3793538459" mt="1430335905774" redirect="true"/>
+  <file name="index.html" crc="50671003" mt="1430347649784" redirect="true"/>
 </manifest>
