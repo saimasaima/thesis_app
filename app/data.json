@@ -10,8 +10,8 @@
         53,
         70
       ],
-      "hover_img": "img/rect1_hover.png",
-      "click_img": "img/rect1_clicked.png",
+      "hover_img": "img/overlays/rect1_hover.png",
+      "click_img": "img/overlays/rect1_clicked.png",
       "query_terms": [
         "blight",
         "detroit",
@@ -35,8 +35,8 @@
         127,
         64
       ],
-      "hover_img": "img/rect2_hover.png",
-      "click_img": "img/rect2_clicked.png",
+      "hover_img": "img/overlays/rect2_hover.png",
+      "click_img": "img/overlays/rect2_clicked.png",
       "query_terms": [
         "detroit",
         "packard plant",
@@ -59,8 +59,8 @@
         53,
         89
       ],
-      "hover_img": "img/rect3_hover.png",
-      "click_img": "img/rect3_clicked.png",
+      "hover_img": "img/overlays/rect3_hover.png",
+      "click_img": "img/overlays/rect3_clicked.png",
       "query_terms": [
         "detroit",
         "fire hydrant",
@@ -83,8 +83,8 @@
         47,
         39
       ],
-      "hover_img": "img/rect4_hover.png",
-      "click_img": "img/rect4_clicked.png",
+      "hover_img": "img/overlays/rect4_hover.png",
+      "click_img": "img/overlays/rect4_clicked.png",
       "query_terms": [
         "detroit",
         "urban farming",
@@ -108,8 +108,8 @@
         59,
         30
       ],
-      "hover_img": "img/rect5_hover.png",
-      "click_img": "img/rect5_clicked.png",
+      "hover_img": "img/overlays/rect5_hover.png",
+      "click_img": "img/overlays/rect5_clicked.png",
       "query_terms": [
         "detroit",
         "compuware",
@@ -133,8 +133,8 @@
         43,
         52
       ],
-      "hover_img": "img/rect6_hover.png",
-      "click_img": "img/rect6_clicked.png",
+      "hover_img": "img/overlays/rect6_hover.png",
+      "click_img": "img/overlays/rect6_clicked.png",
       "query_terms": [
         "detroit",
         "urban decay",
@@ -157,8 +157,8 @@
         59,
         25
       ],
-      "hover_img": "img/rect7_hover.png",
-      "click_img": "img/rect7_clicked.png",
+      "hover_img": "img/overlays/rect7_hover.png",
+      "click_img": "img/overlays/rect7_clicked.png",
       "query_terms": [
         "detroit",
         "downtown",
@@ -181,8 +181,8 @@
         195,
         92
       ],
-      "hover_img": "img/rect8_hover.png",
-      "click_img": "img/rect8_clicked.png",
+      "hover_img": "img/overlays/rect8_hover.png",
+      "click_img": "img/overlays/rect8_clicked.png",
       "query_terms": [
         "detroit",
         "business",
@@ -205,8 +205,8 @@
         44,
         51
       ],
-      "hover_img": "img/rect9_hover.png",
-      "click_img": "img/rect9_clicked.png",
+      "hover_img": "img/overlays/rect9_hover.png",
+      "click_img": "img/overlays/rect9_clicked.png",
       "query_terms": [
         "detroit",
         "dan gilbert",
@@ -229,8 +229,8 @@
         44,
         51
       ],
-      "hover_img": "img/rect10_hover.png",
-      "click_img": "img/rect10_clicked.png",
+      "hover_img": "img/overlays/rect10_hover.png",
+      "click_img": "img/overlays/rect10_clicked.png",
       "query_terms": [
         "detroit",
         "gentrification",
@@ -254,8 +254,8 @@
         70,
         54
       ],
-      "hover_img": "img/rect11_hover.png",
-      "click_img": "img/rect11_clicked.png",
+      "hover_img": "img/overlays/rect11_hover.png",
+      "click_img": "img/overlays/rect11_clicked.png",
       "query_terms": [
         "detroit",
         "future",
@@ -279,8 +279,8 @@
         111,
         69
       ],
-      "hover_img": "img/rect12_hover.png",
-      "click_img": "img/rect12_clicked.png",
+      "hover_img": "img/overlays/rect12_hover.png",
+      "click_img": "img/overlays/rect12_clicked.png",
       "query_terms": [
         "detroit",
         "grcc",
@@ -304,8 +304,8 @@
         189,
         133
       ],
-      "hover_img": "img/rect13_hover.png",
-      "click_img": "img/rect13_clicked.png",
+      "hover_img": "img/overlays/rect13_hover.png",
+      "click_img": "img/overlays/rect13_clicked.png",
       "query_terms": [
         "detroit",
         "two detroits",
@@ -328,8 +328,8 @@
         53,
         103
       ],
-      "hover_img": "img/rect14_hover.png",
-      "click_img": "img/rect14_clicked.png",
+      "hover_img": "img/overlays/rect14_hover.png",
+      "click_img": "img/overlays/rect14_clicked.png",
       "query_terms": [
         "detroit",
         "foreclosure",
@@ -352,8 +352,8 @@
         62,
         61
       ],
-      "hover_img": "img/rect15_hover.png",
-      "click_img": "img/rect15_clicked.png",
+      "hover_img": "img/overlays/rect15_hover.png",
+      "click_img": "img/overlays/rect15_clicked.png",
       "query_terms": [
         "detroit",
         "tech",
@@ -377,8 +377,8 @@
         158,
         116
       ],
-      "hover_img": "img/rect16_hover.png",
-      "click_img": "img/rect16_clicked.png",
+      "hover_img": "img/overlays/rect16_hover.png",
+      "click_img": "img/overlays/rect16_clicked.png",
       "query_terms": [
         "detroit",
         "vacant land",
@@ -401,8 +401,8 @@
         57,
         55
       ],
-      "hover_img": "img/rect17_hover.png",
-      "click_img": "img/rect17_clicked.png",
+      "hover_img": "img/overlays/rect17_hover.png",
+      "click_img": "img/overlays/rect17_clicked.png",
       "query_terms": [
         "new",
         "detroit",
@@ -425,8 +425,8 @@
         164,
         87
       ],
-      "hover_img": "img/rect18_hover.png",
-      "click_img": "img/rect18_clicked.png",
+      "hover_img": "img/overlays/rect18_hover.png",
+      "click_img": "img/overlays/rect18_clicked.png",
       "query_terms": [
         "detroit",
         "luxury",
@@ -449,8 +449,8 @@
         185,
         77
       ],
-      "hover_img": "img/rect19_hover.png",
-      "click_img": "img/rect19_clicked.png",
+      "hover_img": "img/overlays/rect19_hover.png",
+      "click_img": "img/overlays/rect19_clicked.png",
       "query_terms": [
         "opportunity",
         "detroit",
@@ -473,8 +473,8 @@
         38,
         116
       ],
-      "hover_img": "img/rect20_hover.png",
-      "click_img": "img/rect20_clicked.png",
+      "hover_img": "img/overlays/rect20_hover.png",
+      "click_img": "img/overlays/rect20_clicked.png",
       "query_terms": [
         "detroit",
         "transit system",
@@ -497,8 +497,8 @@
         67,
         116
       ],
-      "hover_img": "img/rect21_hover.png",
-      "click_img": "img/rect21_clicked.png",
+      "hover_img": "img/overlays/rect21_hover.png",
+      "click_img": "img/overlays/rect21_clicked.png",
       "query_terms": [
         "detroit",
         "urban decay"
@@ -520,8 +520,8 @@
         73,
         116
       ],
-      "hover_img": "img/rect22_hover.png",
-      "click_img": "img/rect22_clicked.png",
+      "hover_img": "img/overlays/rect22_hover.png",
+      "click_img": "img/overlays/rect22_clicked.png",
       "query_terms": [
         "detroit",
         "EAA",
@@ -544,8 +544,8 @@
         73,
         116
       ],
-      "hover_img": "img/rect23_hover.png",
-      "click_img": "img/rect23_clicked.png",
+      "hover_img": "img/overlays/rect23_hover.png",
+      "click_img": "img/overlays/rect23_clicked.png",
       "query_terms": [
         "detroit",
         "water",
@@ -569,8 +569,8 @@
         27,
         44
       ],
-      "hover_img": "img/rect24_hover.png",
-      "click_img": "img/rect24_clicked.png",
+      "hover_img": "img/overlays/rect24_hover.png",
+      "click_img": "img/overlays/rect24_clicked.png",
       "query_terms": [
         "mike duggan",
         "detroit",
@@ -593,8 +593,8 @@
         34,
         54
       ],
-      "hover_img": "img/rect25_hover.png",
-      "click_img": "img/rect25_clicked.png",
+      "hover_img": "img/overlays/rect25_hover.png",
+      "click_img": "img/overlays/rect25_clicked.png",
       "query_terms": [
         "detroit",
         "financial state",
@@ -617,8 +617,8 @@
         50,
         56
       ],
-      "hover_img": "img/rect26_hover.png",
-      "click_img": "img/rect26_clicked.png",
+      "hover_img": "img/overlays/rect26_hover.png",
+      "click_img": "img/overlays/rect26_clicked.png",
       "query_terms": [
         "detroit",
         "dan gilbert",
@@ -642,8 +642,8 @@
         50,
         56
       ],
-      "hover_img": "img/rect27_hover.png",
-      "click_img": "img/rect27_clicked.png",
+      "hover_img": "img/overlays/rect27_hover.png",
+      "click_img": "img/overlays/rect27_clicked.png",
       "query_terms": [
         "detroit",
         "blight",
@@ -666,8 +666,8 @@
         65,
         27
       ],
-      "hover_img": "img/rect28_hover.png",
-      "click_img": "img/rect28_clicked.png",
+      "hover_img": "img/overlays/rect28_hover.png",
+      "click_img": "img/overlays/rect28_clicked.png",
       "query_terms": [
         "detroit",
         "water",
@@ -690,8 +690,8 @@
         50,
         39
       ],
-      "hover_img": "img/rect29_hover.png",
-      "click_img": "img/rect29_clicked.png",
+      "hover_img": "img/overlays/rect29_hover.png",
+      "click_img": "img/overlays/rect29_clicked.png",
       "query_terms": [
         "grace lee boggs",
         "detroit",
@@ -714,8 +714,8 @@
         36,
         41
       ],
-      "hover_img": "img/rect30_hover.png",
-      "click_img": "img/rect30_clicked.png",
+      "hover_img": "img/overlays/rect30_hover.png",
+      "click_img": "img/overlays/rect30_clicked.png",
       "query_terms": [
         "park",
         "cleanup",
@@ -738,8 +738,8 @@
         39,
         55
       ],
-      "hover_img": "img/rect31_hover.png",
-      "click_img": "img/rect31_clicked.png",
+      "hover_img": "img/overlays/rect31_hover.png",
+      "click_img": "img/overlays/rect31_clicked.png",
       "query_terms": [
         "detroit",
         "bike",
@@ -762,8 +762,8 @@
         37,
         53
       ],
-      "hover_img": "img/rect32_hover.png",
-      "click_img": "img/rect32_clicked.png",
+      "hover_img": "img/overlays/rect32_hover.png",
+      "click_img": "img/overlays/rect32_clicked.png",
       "query_terms": [
         "detroit",
         "lifestyle",
@@ -786,8 +786,8 @@
         149,
         51
       ],
-      "hover_img": "img/rect33_hover.png",
-      "click_img": "img/rect33_clicked.png",
+      "hover_img": "img/overlays/rect33_hover.png",
+      "click_img": "img/overlays/rect33_clicked.png",
       "query_terms": [
         "detroit",
         "professionals",
@@ -810,8 +810,8 @@
         65,
         51
       ],
-      "hover_img": "img/rect34_hover.png",
-      "click_img": "img/rect34_clicked.png",
+      "hover_img": "img/overlays/rect34_hover.png",
+      "click_img": "img/overlays/rect34_clicked.png",
       "query_terms": [
         "detroit",
         "millennials"
@@ -833,8 +833,8 @@
         73,
         53
       ],
-      "hover_img": "img/rect35_hover.png",
-      "click_img": "img/rect35_clicked.png",
+      "hover_img": "img/overlays/rect35_hover.png",
+      "click_img": "img/overlays/rect35_clicked.png",
       "query_terms": [
         "detroit",
         "demographic",
@@ -857,8 +857,8 @@
         102,
         52
       ],
-      "hover_img": "img/rect36_hover.png",
-      "click_img": "img/rect36_clicked.png",
+      "hover_img": "img/overlays/rect36_hover.png",
+      "click_img": "img/overlays/rect36_clicked.png",
       "query_terms": [
         "new yorkers",
         "detroit",
@@ -881,8 +881,8 @@
         63,
         52
       ],
-      "hover_img": "img/rect37_hover.png",
-      "click_img": "img/rect37_clicked.png",
+      "hover_img": "img/overlays/rect37_hover.png",
+      "click_img": "img/overlays/rect37_clicked.png",
       "query_terms": [
         "detroit",
         "gentrification",
@@ -905,8 +905,8 @@
         90,
         52
       ],
-      "hover_img": "img/rect38_hover.png",
-      "click_img": "img/rect38_clicked.png",
+      "hover_img": "img/overlays/rect38_hover.png",
+      "click_img": "img/overlays/rect38_clicked.png",
       "query_terms": [
         "detroit",
         "buildings",

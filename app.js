@@ -134,8 +134,13 @@ app.use(express.static(__dirname+ '/public'));
 //   res.send(">> /OUTPUT query from URL: "+JSON.stringify(req.query));
 // });
 
-
-
+// when anyone (any client) hits this GET route, serve the jsonData object.
+app.get('/getJsonData', function(req,res){
+  
+  console.log('GET request for jsonData');
+  
+  res.json(jsonData);
+});
 
 /****
 * START THE HTTP SERVER
