@@ -17,10 +17,20 @@ var colors      = require('colors');
 var http        = require('http');
 var util        = require('util');
 var Twitter     = require('node-twitter');
-
+var DetroitData = require('./app/DetroitParser');
 var port = 8080; //select a port for this server to run on
 var users;
-var data;
+
+// the location of the data.json file
+var DATA_FILE = __dirname+'/app/data.json';
+console.log(DATA_FILE);
+
+var jsonData;
+DetroitData.setup(DATA_FILE, function(e, data){
+  if(e) return console.error("error reading JSON data file: "+e);
+  jsonData = data;
+  console.log(JSON.stringify(jsonData, null, '\t')); //print the whole thing out
+});
 
 var GoogleNews, googleNews;
 

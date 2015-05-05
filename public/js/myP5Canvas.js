@@ -5,8 +5,8 @@ var y = 0;
 
 function setup() {
   // put setup code here
-  img = loadImage("../img/paint.png");
-  createCanvas(2000, 950);
+  img = loadImage("../img/parallax_bg_1024.png");
+  createCanvas(1024, 416);
   background(255);
   imageMode(CORNER);
 };

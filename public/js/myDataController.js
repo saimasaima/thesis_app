@@ -9,18 +9,24 @@ $(document).ready(function() {
 // >>>> jQUERY CLICK LISTENERS, etc <<<<<<
 
 //when you click on "[ click to load news article ]" :
-$('div.load-news-1').on('click', function(event){
+$('a.load-news').on('click', function(event){
   event.preventDefault();
-  console.log("click on a.load-news-1");
+  console.log("click on a.load-news");
+  resetAll()
   socket.emit('news-search', 'two-detroits');
 });
 
 $('img.grcc').on('click', function(event){
   event.preventDefault();
-  console.log("click on a.load-news-1");
+  console.log("click on img.grcc");
   socket.emit('news-search', 'two-detroits');
 });
 
+
+function resetAll(){
+
+  $(".article").empty();
+}
 // Whenever you click on the #restart div, open the search prompt
 // $("#restart").click(function(event){
 //   // Open a prompt to enter a search term after page loads:
