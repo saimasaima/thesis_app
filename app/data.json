@@ -39,15 +39,15 @@
       "click_img": "img/rect2_clicked.png",
       "query_terms": [
         "detroit",
-        "urban decay",
-        "ruin porn"
+        "packard plant",
+        "history"
       ],
       "featured": {
         "type": "article",
-        "title": "How Detroit Became the World Capital of Staring at Abandoned Old Buildings",
-        "link": "http://www.nytimes.com/2012/11/11/magazine/how-detroit-became-the-world-capital-of-staring-at-abandoned-old-buildings.html?_r=0",
-        "date": "November 9, 2012",
-        "author": "Mark Binelli",
+        "title": "Berlin techno entrepreneur continues to eye Detroit site",
+        "link": "http://www.freep.com/story/entertainment/music/2015/04/16/dimitri-hegemann-detroit-berlin-tresor/25900439/",
+        "date": "April 16, 2015",
+        "author": "Ashley Zlatopoisky",
         "body": "here's the body of this article"
       }
     },
@@ -63,16 +63,15 @@
       "click_img": "img/rect3_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex",
-        "graffiti war"
+        "fire hydrant",
+        "problem"
       ],
       "featured": {
         "type": "article",
-        "title": "While artist Sintex fights ‘culture vultures,’ Detroit gears up for a graffiti crackdown",
-        "link": "http://www.metrotimes.com/detroit/while-artist-sintex-fights-culture-vultures-detroit-gears-up-for-a-graffiti-crackdown/Content?oid=2297092",
-        "date": "February 4, 2015",
-        "author": "Lee Devito",
+        "title": "18 notable buildings in Detroit with out-of-service hydrants",
+        "link": "http://motorcitymuckraker.com/2015/03/09/here-are-18-notable-buildings-in-detroit-with-out-of-service-hydrants/",
+        "date": "March 9, 2015",
+        "author": "Steve Neavling",
         "body": "here's the body of this article"
       }
     },
@@ -121,7 +120,8 @@
         "type": "article",
         "title": "Detroit is Dan Gilbert Territory",
         "link": "http://recode.net/2015/02/10/detroit-is-dan-gilbert-territory/",
-        "date": "May 20, 2014",
+        "date": "February 10, 2015",
+        "author": "Liz Gannes",
         "body": "here's the body of this article"
       }
     },
@@ -137,15 +137,15 @@
       "click_img": "img/rect6_clicked.png",
       "query_terms": [
         "detroit",
-        "vacant",
-        "land"
+        "urban decay",
+        "ruin porn"
       ],
       "featured": {
         "type": "article",
-        "title": "Soon You Can Buy Vacant Lots in Detroit for $100 Each",
-        "link": "http://detroit.jalopnik.com/soon-you-can-buy-vacant-lots-in-detroit-for-100-each-1578952126",
-        "date": "May 20, 2014",
-        "author": "Aaron Foley",
+        "title": "How Detroit Became the World Capital of Staring at Abandoned Old Buildings",
+        "link": "http://www.nytimes.com/2012/11/11/magazine/how-detroit-became-the-world-capital-of-staring-at-abandoned-old-buildings.html?_r=0",
+        "date": "November 9, 2012",
+        "author": "Mark Binelli",
         "body": "here's the body of this article"
       }
     },
@@ -168,8 +168,8 @@
         "type": "article",
         "title": "Detroit’s Downtown Revitalization? Bring Some of That Out to the Neighborhoods",
         "link": "http://www.governing.com/topics/urban/detroits-downtown-revitalization-bring-some-of-that-out.html",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "April 30, 2015",
+        "author": "Mark Caro",
         "body": "here's the body of this article"
       }
     },
@@ -185,15 +185,15 @@
       "click_img": "img/rect8_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "business",
+        "eviction"
       ],
       "featured": {
         "type": "article",
-        "title": "It’s 2 p.m. Do you know where your commuters are?",
-        "link": "http://www.michigansuburbsalliance.org/2013/06/05/its-2-p-m-do-you-know-where-your-commuters-are-2/",
-        "date": "June 5, 2013",
-        "author": "Richard Murphy",
+        "title": "Detroit’s downtown business owners say the ‘good times’ aren’t for them",
+        "link": "http://www.metrotimes.com/detroit/detroits-downtown-business-owners-say-the-good-times-arent-for-them/Content?oid=2300224",
+        "date": "February 18, 2015",
+        "author": "Alyssa Offman",
         "body": "here's the body of this article"
       }
     },
@@ -258,15 +258,16 @@
       "click_img": "img/rect11_clicked.png",
       "query_terms": [
         "detroit",
-        "opportunity detroit",
-        "dan gilbert"
+        "future",
+        "city",
+        "plan"
       ],
       "featured": {
         "type": "article",
-        "title": "How Two Billionaires are Remaking Detroit in Their Flawed Image",
-        "link": "http://gawker.com/how-two-billionaires-are-remaking-detroit-in-their-flaw-1700397768?utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow",
-        "date": "April 29, 2015",
-        "author": "Peter Moskowitz",
+        "title": "This Is What Detroit Could Look Like In 2033... And Beyond",
+        "link": "http://www.huffingtonpost.com/2013/11/26/detroit-in-20-years-2033_n_4269422.html",
+        "date": "November, 26 2013",
+        "author": "Ashley Woods",
         "body": "here's the body of this article"
       }
     },
@@ -282,15 +283,16 @@
       "click_img": "img/rect12_clicked.png",
       "query_terms": [
         "detroit",
-        "fire hydrant",
-        "problem"
+        "grcc",
+        "sintex",
+        "graffiti war"
       ],
       "featured": {
         "type": "article",
-        "title": "18 notable buildings in Detroit with out-of-service hydrants",
-        "link": "http://motorcitymuckraker.com/2015/03/09/here-are-18-notable-buildings-in-detroit-with-out-of-service-hydrants/",
-        "date": "March 9, 2015",
-        "author": "Peter Moskowitz",
+        "title": "While artist Sintex fights ‘culture vultures,’ Detroit gears up for a graffiti crackdown",
+        "link": "hhttp://www.metrotimes.com/detroit/while-artist-sintex-fights-culture-vultures-detroit-gears-up-for-a-graffiti-crackdown/Content?oid=2297092",
+        "date": "February 4, 2015",
+        "author": "Lee DeVito",
         "body": "here's the body of this article"
       }
     },
@@ -354,15 +356,16 @@
       "click_img": "img/rect15_clicked.png",
       "query_terms": [
         "detroit",
-        "transit system",
-        "jobs"
+        "tech",
+        "startup",
+        "hub"
       ],
       "featured": {
         "type": "article",
-        "title": "Region’s transit system can’t get many to job centers",
-        "link": "http://www.freep.com/story/opinion/columnists/stephen-henderson/2015/02/22/detroit-bus-transit/23775245/",
-        "date": "February 22, 2015",
-        "author": "Stephen Henderson Kristi Tanner",
+        "title": "Detroit is going bankrupt- but its tech community is going strong",
+        "link": "http://www.fastcompany.com/3014543/detroit-is-going-bankrupt-but-its-tech-community-is-going-strong",
+        "date": "July 18, 2013",
+        "author": "Christina Chavey",
         "body": "here's the body of this article"
       }
     },
@@ -378,15 +381,15 @@
       "click_img": "img/rect16_clicked.png",
       "query_terms": [
         "detroit",
-        "business",
-        "eviction"
+        "vacant land",
+        "blight"
       ],
       "featured": {
         "type": "article",
-        "title": "Detroit’s downtown business owners say the ‘good times’ aren’t for them",
-        "link": "http://www.metrotimes.com/detroit/detroits-downtown-business-owners-say-the-good-times-arent-for-them/Content?oid=2300224",
-        "date": "February 18, 2015",
-        "author": "Alysa Offman",
+        "title": "Soon You Can Buy Vacant Lots in Detroit for $100 Each",
+        "link": "http://detroit.jalopnik.com/soon-you-can-buy-vacant-lots-in-detroit-for-100-each-1578952126",
+        "date": "May 20, 2014",
+        "author": "Aaron Foley",
         "body": "here's the body of this article"
       }
     },
@@ -401,14 +404,14 @@
       "hover_img": "img/rect17_hover.png",
       "click_img": "img/rect17_clicked.png",
       "query_terms": [
+        "new",
         "detroit",
-        "grcc",
-        "sintex"
+        "residents"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "Is There Room for Black People in the New Detroit?",
+        "link": "http://www.politico.com/magazine/story/2014/09/is-there-room-for-black-people-in-the-new-detroit-111396.html#.VUcSgtNViko",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -426,13 +429,13 @@
       "click_img": "img/rect18_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "luxury",
+        "development"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "Detroit led U.S. in murder, crime rates, FBI says",
+        "link": "http://www.detroitnews.com/story/news/local/wayne-county/2014/11/10/detroit-led-us-murder-crime-rates-fbi-says/18793923/",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -449,14 +452,14 @@
       "hover_img": "img/rect19_hover.png",
       "click_img": "img/rect19_clicked.png",
       "query_terms": [
+        "opportunity",
         "detroit",
-        "grcc",
-        "sintex"
+        "dan gilbert"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "How Two Billionaires are Remaking Detroit in Their Flawed Image",
+        "link": "http://gawker.com/how-two-billionaires-are-remaking-detroit-in-their-flaw-1700397768?utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -474,13 +477,13 @@
       "click_img": "img/rect20_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "transit system",
+        "jobs"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "Region’s transit system can’t get many to job centers",
+        "link": "http://www.freep.com/story/opinion/columnists/stephen-henderson/2015/02/22/detroit-bus-transit/23775245/",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -498,13 +501,12 @@
       "click_img": "img/rect21_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "urban decay"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "How Detroit Became the World Capital of Staring at Abandoned Old Buildings",
+        "link": "http://www.nytimes.com/2012/11/11/magazine/how-detroit-became-the-world-capital-of-staring-at-abandoned-old-buildings.html?_r=0",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -522,13 +524,13 @@
       "click_img": "img/rect22_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "EAA",
+        "failure"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "Fixing Detroit’s Broken School System",
+        "link": "http://educationnext.org/fixing-detroits-broken-school-system/",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -546,13 +548,14 @@
       "click_img": "img/rect23_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "water",
+        "shutoff",
+        "unpaid"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "1000 foot water slide to splash in metro Detroit",
+        "link": "http://www.freep.com/story/news/local/michigan/detroit/2015/04/08/detroit-giant-water-slide/25490955/",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -569,14 +572,14 @@
       "hover_img": "img/rect24_hover.png",
       "click_img": "img/rect24_clicked.png",
       "query_terms": [
+        "mike duggan",
         "detroit",
-        "grcc",
-        "sintex"
+        "help"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "Detroit Mayor Delivers on Vow to 'Improve Detroit' Through Tech",
+        "link": "http://nextcity.org/daily/entry/can-a-mobile-app-really-improve-detroit",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -594,13 +597,13 @@
       "click_img": "img/rect25_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "financial state",
+        "bankruptcy"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "After Detroit, Kevyn Orr says he's not sure what's next",
+        "link": "http://www.freep.com/story/news/local/detroit-bankruptcy/2014/12/10/kevyn-orr-next-job/20219385/",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -618,13 +621,14 @@
       "click_img": "img/rect26_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "dan gilbert",
+        "sued",
+        "blight"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "Detroit Is Dan Gilbert Territory",
+        "link": "http://recode.net/2015/02/10/detroit-is-dan-gilbert-territory/",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -642,13 +646,13 @@
       "click_img": "img/rect27_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "blight",
+        "mapping"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "'It's scary when we can do this out of love and there's nothing you can threaten us with'",
+        "link": "http://www.ethanzuckerman.com/blog/2015/03/06/its-scary-when-we-can-do-this-out-of-love-and-theres-nothing-you-can-threaten-us-with/",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -666,13 +670,13 @@
       "click_img": "img/rect28_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "water",
+        "payments"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "Detroit's water payments should become income based",
+        "link": "http://www.detroitnews.com/story/opinion/2015/03/24/detroit-needs-water-affordability-plan/70340458/",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -689,14 +693,14 @@
       "hover_img": "img/rect29_hover.png",
       "click_img": "img/rect29_clicked.png",
       "query_terms": [
+        "grace lee boggs",
         "detroit",
-        "grcc",
-        "sintex"
+        "activist"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "Becoming Detroit: Reimagining Work, Food, and Community",
+        "link": "http://www.onbeing.org/program/becoming-detroit-grace-lee-boggs-on-reimagining-work-food-and-community/1060",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -713,14 +717,14 @@
       "hover_img": "img/rect30_hover.png",
       "click_img": "img/rect30_clicked.png",
       "query_terms": [
-        "detroit",
-        "grcc",
-        "sintex"
+        "park",
+        "cleanup",
+        "detroit"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "Detroit Mower Gang: Cleaning Up Detroit One Park at a Time",
+        "link": "http://chevydetroit.com/detroit-mower-gang-cleaning-up-detroit-one-park-at-a-time/",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -738,13 +742,13 @@
       "click_img": "img/rect31_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "bike",
+        "apple"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "Jason Hall: Co-founder of Detroit Bike City",
+        "link": "http://www.blacdetroit.com/BLAC-Detroit/May-2014/Jason-Hall-Co-founder-of-Detroit-Bike-City/",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -762,13 +766,13 @@
       "click_img": "img/rect32_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "lifestyle",
+        "brands"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "Detroit vs. Everybody: Mending the Fabric of a City",
+        "link": "https://deanbarber.wordpress.com/2013/08/25/detroit-vs-everybody-mending-the-fabric-of-a-city/",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -786,13 +790,13 @@
       "click_img": "img/rect33_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "professionals",
+        "commute"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "It’s 2 p.m. Do you know where your commuters are?",
+        "link": "http://www.michigansuburbsalliance.org/2013/06/05/its-2-p-m-do-you-know-where-your-commuters-are-2/",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -810,13 +814,12 @@
       "click_img": "img/rect34_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "millennials"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "Detroit: It’s not a blank slate",
+        "link": "http://mashable.com/2015/03/01/detroit-new-people/",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -834,13 +837,13 @@
       "click_img": "img/rect35_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "demographic",
+        "racism"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "Gentrification and Race: Can We Have a Real Conversation?",
+        "link": "http://www.metrotimes.com/Blogs/archives/2015/04/28/gentrification-and-race-can-we-have-a-real-conversation",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -857,14 +860,14 @@
       "hover_img": "img/rect36_hover.png",
       "click_img": "img/rect36_clicked.png",
       "query_terms": [
+        "new yorkers",
         "detroit",
-        "grcc",
-        "sintex"
+        "hipsters"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "New York Hipsters are being encouraged to move to Detroit",
+        "link": "http://www.businessinsider.com/move-to-detroit-campaign-in-new-york-2015-4",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -882,13 +885,13 @@
       "click_img": "img/rect37_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "gentrification",
+        "public services"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "Detroit’s gentrification won’t give poor citizens reliable public services",
+        "link": "http://www.theguardian.com/public-leaders-network/2015/feb/17/detroit-gentrification-poverty-public-services-race-divide",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
@@ -906,13 +909,14 @@
       "click_img": "img/rect38_clicked.png",
       "query_terms": [
         "detroit",
-        "grcc",
-        "sintex"
+        "buildings",
+        "for",
+        "sale"
       ],
       "featured": {
         "type": "article",
-        "title": "Curated Article title",
-        "link": "http://curated.com/thisarticle",
+        "title": "Fisher Building in Detroit to hit auction block in June",
+        "link": "http://www.freep.com/story/money/real-estate/2015/03/04/fisher-building-detroit-auction-kahn/24347217/",
         "date": "January 7, 2014",
         "author": "John author",
         "body": "here's the body of this article"
