@@ -11,9 +11,13 @@ var img;
 var x = 0;
 var y = 0;
 
+//objects coming from DataController
 var jsonData; //will hold all json data
 var socket; //will hold socket
 var resetAll;
+var setData;
+
+//local stuffs
 var jsonParsed;
 var canvasSections = []; //will hold an array of section objects
 var sectionImgsRevealed = [];
@@ -49,7 +53,7 @@ function setup() {
   //   canvasSections.push(thisSection);
   // });
   // console.log('all sections::: \n'+JSON.stringify(canvasSections,null,'\t'));
-  //******************************
+  //********************************//
 }
 
 /***
@@ -150,9 +154,11 @@ function drawSectionImage(thisSection, idx){
     sectionImgsRevealed.push(thisImg);
     var searchQuery = '';
     thisSection.query_terms.forEach(function(term, id){
-      searchQuery += (' '+term);
+      if(id>0) searchQuery += (' '+term);
+      else searchQuery += term;
     });
     resetAll();
+    setData(thisSection);
     console.log('>>> sending search query: '+searchQuery);
     socket.emit('news-search', searchQuery);
     image(img, thisSection.coords[0], thisSection.coords[1], thisSection.coords[2], thisSection.coords[3] );
@@ -199,10 +205,11 @@ function refreshBgImg(){
 //
 */
 function init() { window.parent.setUpFrame(); return true; }
-function yourMethod(_jsonData, _reset, _socket) { 
+function yourMethod(_jsonData, _reset, _setData, _socket) { 
   console.log('hit yourMethod');
   jsonData = _jsonData;
-  socket = _socket;
+  socket   = _socket;
+  setData  = _setData;
   resetAll = _reset;
   //console.log('got jsonData: '+JSON.stringify(jsonData, null, '\t')); 
 }
