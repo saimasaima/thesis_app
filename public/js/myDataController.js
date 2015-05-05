@@ -1,7 +1,7 @@
 
 $(document).ready(function() {
   //anything that needs to load AFTER the page has loaded...
-  console.log("loaded main.js + socket.io");
+  console.log("loaded myDataController");
 });
 
 
@@ -47,11 +47,17 @@ function resetAll(){
 // >>>> ALL SOCKET IO SETUP AND LISTENERS <<<<<<
 
 //initialize socket.io, open socket with server.
-var socket= io();
+// var socket= io();
 
 
 //**** comment this line out if you don't want it starting tweets immediately on load*****//
 //socket.emit('search', 'bieber'); //emit a search command with the term
+
+socket.on('initData', function (data) {
+  console.log('data controller got init');
+  // console.log('got init data: '+JSON.stringify(data));
+  
+});
 
 
 // Whenever the server passes us a 'tweet', show the message
@@ -61,6 +67,8 @@ socket.on('tweet', function (data) {
   // console.log("received tweet from server: "+data);
   // console.log("tweetCount: "+tweetCount);
 });
+
+
 
 // Whenever the server passes a news article:
 socket.on("article", function(thisArticle){

@@ -4,16 +4,24 @@
 	<head>
 		<title>My Site</title>
 		<script src="/socket.io/socket.io.js"></script>
+		<script type = 'text/javascript'> var socket= io(); </script>
 		<script src="http://code.jquery.com/jquery-1.11.1.js"></script>
 		<style src="/css/site_global.css"></style>
 		<style> iframe{ border: none; } </style>
+
+		<script>
+		function setUpFrame() { 
+		    var frame = window.frames['p5canvas'];
+		    frame.yourMethod('hello', socket);
+		}
+		</script>
 	</head>
 
 	<body>
 
 		<!-- processing sketch/canvas is stored in an iFrame: -->
 		<!-- NOTE: the size of the canvas is declared here: -->
-		<iframe src="./myCanvas.html" width="2000px" height="500"></iframe>
+		<iframe name="p5canvas" src="./myCanvas.html" width="2000px" height="500"></iframe>
 
 		<br><br><hr><br>
 

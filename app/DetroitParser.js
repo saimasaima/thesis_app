@@ -17,13 +17,14 @@ var config = require('./data.json');
 var json;
 
 
-module.exports.setup = function(jsonFile, callback){
+module.exports.setup = function(callback){
 
-  console.log(jsonFile);
-
-  var obj = JSON.parse(config);
+  console.log('parsing data.json file...'.gray);
+  var obj = JSON.parse(JSON.stringify(config));
+  // console.log(JSON.stringify(obj));
+  // console.log(JSON.stringify(obj.sections.length, null, '\t')); //print the whole thing out
   
-  if(obj.sections.length > 10) return callback('obj appears incomplete!!');
+  if(obj.sections.length < 10) return callback('obj appears incomplete!!');
 
   callback(null, obj);
 }

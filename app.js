@@ -12,6 +12,8 @@
 *
 */
 
+console.log("\n\n>>>>> loading Oldie Node App <<<<<\n")
+
 var express     = require('express');
 var colors      = require('colors');
 var http        = require('http');
@@ -21,15 +23,14 @@ var DetroitData = require('./app/DetroitParser');
 var port = 8080; //select a port for this server to run on
 var users;
 
-// the location of the data.json file
-var DATA_FILE = __dirname+'/app/data.json';
-console.log(DATA_FILE);
+var jsonData; //will hold parsed JSON data
 
-var jsonData;
-DetroitData.setup(DATA_FILE, function(e, data){
+DetroitData.setup(function(e, data){
   if(e) return console.error("error reading JSON data file: "+e);
   jsonData = data;
-  console.log(JSON.stringify(jsonData, null, '\t')); //print the whole thing out
+  console.log('jsonData loaded! '.green)
+  console.log('sections count: '.gray+jsonData.sections.length);
+  // console.log(JSON.stringify(jsonData, null, '\t')); //print the whole thing out
 });
 
 var GoogleNews, googleNews;
@@ -163,6 +164,7 @@ var io = require('socket.io')(server);
 io.on('connection', function(websocket){
 
   console.log(">>> new websocket client connection made".green)
+  io.emit('initData',jsonData);
   // console.log(util.inspect(websocket)); //whoa there!! whole bunch of info...
 
 
