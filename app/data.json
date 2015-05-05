@@ -7,8 +7,8 @@
       "coords": [
         14,
         11,
-        53,
-        70
+        100,
+        132
       ],
       "click_img": "img/overlays/rect1_clicked.png",
       "query_terms": [
@@ -31,8 +31,8 @@
       "coords": [
         76,
         17,
-        127,
-        64
+        238,
+        120
       ],
       "click_img": "img/overlays/rect2_clicked.png",
       "query_terms": [
@@ -54,8 +54,8 @@
       "coords": [
         215,
         11,
-        53,
-        89
+        100,
+        167
       ],
       "click_img": "img/overlays/rect3_clicked.png",
       "query_terms": [
@@ -77,8 +77,8 @@
       "coords": [
         281,
         9,
-        47,
-        39
+        88,
+        76
       ],
       "click_img": "img/overlays/rect4_clicked.png",
       "query_terms": [
@@ -101,8 +101,8 @@
       "coords": [
         341,
         12,
-        59,
-        30
+        110,
+        57
       ],
       "click_img": "img/overlays/rect5_clicked.png",
       "query_terms": [
@@ -125,8 +125,8 @@
       "coords": [
         292,
         49,
-        43,
-        52
+        81,
+        111
       ],
       "click_img": "img/overlays/rect6_clicked.png",
       "query_terms": [
@@ -148,8 +148,8 @@
       "coords": [
         341,
         55,
-        59,
-        25
+        110,
+        46
       ],
       "click_img": "img/overlays/rect7_clicked.png",
       "query_terms": [
@@ -171,8 +171,8 @@
       "coords": [
         410,
         11,
-        195,
-        92
+        365,
+        172
       ],
       "click_img": "img/overlays/rect8_clicked.png",
       "query_terms": [
@@ -194,8 +194,8 @@
       "coords": [
         604,
         66,
-        44,
-        51
+        83,
+        111
       ],
       "click_img": "img/overlays/rect9_clicked.png",
       "query_terms": [
@@ -217,8 +217,8 @@
       "coords": [
         604,
         66,
-        44,
-        51
+        226,
+        100
       ],
       "click_img": "img/overlays/rect10_clicked.png",
       "query_terms": [
@@ -241,8 +241,8 @@
       "coords": [
         697,
         12,
-        70,
-        54
+        131,
+        101
       ],
       "click_img": "img/overlays/rect11_clicked.png",
       "query_terms": [
@@ -265,8 +265,8 @@
       "coords": [
         902,
         12,
-        111,
-        69
+        208,
+        160
       ],
       "click_img": "img/overlays/rect12_clicked.png",
       "query_terms": [
@@ -289,8 +289,8 @@
       "coords": [
         13,
         93,
-        189,
-        133
+        354,
+        223
       ],
       "click_img": "img/overlays/rect13_clicked.png",
       "query_terms": [
@@ -312,8 +312,8 @@
       "coords": [
         215,
         103,
-        53,
-        103
+        100,
+        193
       ],
       "click_img": "img/overlays/rect14_clicked.png",
       "query_terms": [
@@ -335,8 +335,8 @@
       "coords": [
         276,
         120,
-        62,
-        61
+        117,
+        114
       ],
       "click_img": "img/overlays/rect15_clicked.png",
       "query_terms": [
@@ -359,8 +359,8 @@
       "coords": [
         411,
         109,
-        158,
-        116
+        297,
+        249
       ],
       "click_img": "img/overlays/rect16_clicked.png",
       "query_terms": [
@@ -382,8 +382,8 @@
       "coords": [
         597,
         138,
-        57,
-        55
+        107,
+        103
       ],
       "click_img": "img/overlays/rect17_clicked.png",
       "query_terms": [
@@ -405,8 +405,8 @@
       "coords": [
         652,
         81,
-        164,
-        87
+        316,
+        164
       ],
       "click_img": "img/overlays/rect18_clicked.png",
       "query_terms": [
@@ -428,8 +428,8 @@
       "coords": [
         828,
         81,
-        185,
-        77
+        346,
+        145
       ],
       "click_img": "img/overlays/rect19_clicked.png",
       "query_terms": [
@@ -451,8 +451,8 @@
       "coords": [
         13,
         230,
-        38,
-        116
+        72,
+        217
       ],
       "click_img": "img/overlays/rect20_clicked.png",
       "query_terms": [
@@ -474,8 +474,8 @@
       "coords": [
         53,
         230,
-        67,
-        116
+        125,
+        217
       ],
       "click_img": "img/overlays/rect21_clicked.png",
       "query_terms": [
@@ -496,8 +496,8 @@
       "coords": [
         123,
         230,
-        73,
-        116
+        134,
+        217
       ],
       "click_img": "img/overlays/rect22_clicked.png",
       "query_terms": [
@@ -519,8 +519,8 @@
       "coords": [
         197,
         230,
-        73,
-        116
+        136,
+        217
       ],
       "click_img": "img/overlays/rect23_clicked.png",
       "query_terms": [
@@ -543,8 +543,8 @@
       "coords": [
         307,
         251,
-        27,
-        44
+        51,
+        82
       ],
       "click_img": "img/overlays/rect24_clicked.png",
       "query_terms": [
@@ -566,8 +566,8 @@
       "coords": [
         335,
         259,
-        34,
-        54
+        64,
+        102
       ],
       "click_img": "img/overlays/rect25_clicked.png",
       "query_terms": [
@@ -589,8 +589,8 @@
       "coords": [
         370,
         252,
-        50,
-        56
+        109,
+        84
       ],
       "click_img": "img/overlays/rect26_clicked.png",
       "query_terms": [
@@ -613,8 +613,8 @@
       "coords": [
         450,
         275,
-        50,
-        56
+        94,
+        105
       ],
       "click_img": "img/overlays/rect27_clicked.png",
       "query_terms": [
@@ -636,8 +636,8 @@
       "coords": [
         654,
         209,
-        65,
-        27
+        122,
+        51
       ],
       "click_img": "img/overlays/rect28_clicked.png",
       "query_terms": [
@@ -659,8 +659,8 @@
       "coords": [
         643,
         258,
-        50,
-        39
+        94,
+        74
       ],
       "click_img": "img/overlays/rect29_clicked.png",
       "query_terms": [
@@ -682,8 +682,8 @@
       "coords": [
         772,
         254,
-        36,
-        41
+        68,
+        76
       ],
       "click_img": "img/overlays/rect30_clicked.png",
       "query_terms": [
@@ -705,8 +705,8 @@
       "coords": [
         814,
         256,
-        39,
-        55
+        73,
+        104
       ],
       "click_img": "img/overlays/rect31_clicked.png",
       "query_terms": [
@@ -728,8 +728,8 @@
       "coords": [
         967,
         249,
-        37,
-        53
+        69,
+        100
       ],
       "click_img": "img/overlays/rect32_clicked.png",
       "query_terms": [
@@ -751,8 +751,8 @@
       "coords": [
         20,
         355,
-        149,
-        51
+        279,
+        95
       ],
       "click_img": "img/overlays/rect33_clicked.png",
       "query_terms": [
@@ -774,8 +774,8 @@
       "coords": [
         190,
         356,
-        65,
-        51
+        122,
+        95
       ],
       "click_img": "img/overlays/rect34_clicked.png",
       "query_terms": [
@@ -796,8 +796,8 @@
       "coords": [
         637,
         349,
-        73,
-        53
+        137,
+        99
       ],
       "click_img": "img/overlays/rect35_clicked.png",
       "query_terms": [
@@ -819,8 +819,8 @@
       "coords": [
         725,
         349,
-        102,
-        52
+        192,
+        97
       ],
       "click_img": "img/overlays/rect36_clicked.png",
       "query_terms": [
@@ -842,8 +842,8 @@
       "coords": [
         837,
         349,
-        63,
-        52
+        119,
+        97
       ],
       "click_img": "img/overlays/rect37_clicked.png",
       "query_terms": [
@@ -865,8 +865,8 @@
       "coords": [
         915,
         349,
-        90,
-        52
+        169,
+        97
       ],
       "click_img": "img/overlays/rect38_clicked.png",
       "query_terms": [
