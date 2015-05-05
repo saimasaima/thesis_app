@@ -10,8 +10,7 @@
         53,
         70
       ],
-      "hover_img": "img/rect1_hover.png",
-      "click_img": "img/rect1_clicked.png",
+      "click_img": "img/overlays/rect1_clicked.png",
       "query_terms": [
         "blight",
         "detroit",
@@ -35,8 +34,7 @@
         127,
         64
       ],
-      "hover_img": "img/rect2_hover.png",
-      "click_img": "img/rect2_clicked.png",
+      "click_img": "img/overlays/rect2_clicked.png",
       "query_terms": [
         "detroit",
         "packard plant",
@@ -59,8 +57,7 @@
         53,
         89
       ],
-      "hover_img": "img/rect3_hover.png",
-      "click_img": "img/rect3_clicked.png",
+      "click_img": "img/overlays/rect3_clicked.png",
       "query_terms": [
         "detroit",
         "fire hydrant",
@@ -83,8 +80,7 @@
         47,
         39
       ],
-      "hover_img": "img/rect4_hover.png",
-      "click_img": "img/rect4_clicked.png",
+      "click_img": "img/overlays/rect4_clicked.png",
       "query_terms": [
         "detroit",
         "urban farming",
@@ -108,8 +104,7 @@
         59,
         30
       ],
-      "hover_img": "img/rect5_hover.png",
-      "click_img": "img/rect5_clicked.png",
+      "click_img": "img/overlays/rect5_clicked.png",
       "query_terms": [
         "detroit",
         "compuware",
@@ -133,8 +128,7 @@
         43,
         52
       ],
-      "hover_img": "img/rect6_hover.png",
-      "click_img": "img/rect6_clicked.png",
+      "click_img": "img/overlays/rect6_clicked.png",
       "query_terms": [
         "detroit",
         "urban decay",
@@ -157,8 +151,7 @@
         59,
         25
       ],
-      "hover_img": "img/rect7_hover.png",
-      "click_img": "img/rect7_clicked.png",
+      "click_img": "img/overlays/rect7_clicked.png",
       "query_terms": [
         "detroit",
         "downtown",
@@ -181,8 +174,7 @@
         195,
         92
       ],
-      "hover_img": "img/rect8_hover.png",
-      "click_img": "img/rect8_clicked.png",
+      "click_img": "img/overlays/rect8_clicked.png",
       "query_terms": [
         "detroit",
         "business",
@@ -205,8 +197,7 @@
         44,
         51
       ],
-      "hover_img": "img/rect9_hover.png",
-      "click_img": "img/rect9_clicked.png",
+      "click_img": "img/overlays/rect9_clicked.png",
       "query_terms": [
         "detroit",
         "dan gilbert",
@@ -229,8 +220,7 @@
         44,
         51
       ],
-      "hover_img": "img/rect10_hover.png",
-      "click_img": "img/rect10_clicked.png",
+      "click_img": "img/overlays/rect10_clicked.png",
       "query_terms": [
         "detroit",
         "gentrification",
@@ -254,8 +244,7 @@
         70,
         54
       ],
-      "hover_img": "img/rect11_hover.png",
-      "click_img": "img/rect11_clicked.png",
+      "click_img": "img/overlays/rect11_clicked.png",
       "query_terms": [
         "detroit",
         "future",
@@ -279,8 +268,7 @@
         111,
         69
       ],
-      "hover_img": "img/rect12_hover.png",
-      "click_img": "img/rect12_clicked.png",
+      "click_img": "img/overlays/rect12_clicked.png",
       "query_terms": [
         "detroit",
         "grcc",
@@ -304,8 +292,7 @@
         189,
         133
       ],
-      "hover_img": "img/rect13_hover.png",
-      "click_img": "img/rect13_clicked.png",
+      "click_img": "img/overlays/rect13_clicked.png",
       "query_terms": [
         "detroit",
         "two detroits",
@@ -328,8 +315,7 @@
         53,
         103
       ],
-      "hover_img": "img/rect14_hover.png",
-      "click_img": "img/rect14_clicked.png",
+      "click_img": "img/overlays/rect14_clicked.png",
       "query_terms": [
         "detroit",
         "foreclosure",
@@ -352,8 +338,7 @@
         62,
         61
       ],
-      "hover_img": "img/rect15_hover.png",
-      "click_img": "img/rect15_clicked.png",
+      "click_img": "img/overlays/rect15_clicked.png",
       "query_terms": [
         "detroit",
         "tech",
@@ -377,8 +362,7 @@
         158,
         116
       ],
-      "hover_img": "img/rect16_hover.png",
-      "click_img": "img/rect16_clicked.png",
+      "click_img": "img/overlays/rect16_clicked.png",
       "query_terms": [
         "detroit",
         "vacant land",
@@ -401,8 +385,7 @@
         57,
         55
       ],
-      "hover_img": "img/rect17_hover.png",
-      "click_img": "img/rect17_clicked.png",
+      "click_img": "img/overlays/rect17_clicked.png",
       "query_terms": [
         "new",
         "detroit",
@@ -412,8 +395,8 @@
         "type": "article",
         "title": "Is There Room for Black People in the New Detroit?",
         "link": "http://www.politico.com/magazine/story/2014/09/is-there-room-for-black-people-in-the-new-detroit-111396.html#.VUcSgtNViko",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "September 28, 2014",
+        "author": "Suzette Hackney",
         "body": "here's the body of this article"
       }
     },
@@ -425,8 +408,7 @@
         164,
         87
       ],
-      "hover_img": "img/rect18_hover.png",
-      "click_img": "img/rect18_clicked.png",
+      "click_img": "img/overlays/rect18_clicked.png",
       "query_terms": [
         "detroit",
         "luxury",
@@ -436,8 +418,8 @@
         "type": "article",
         "title": "Detroit led U.S. in murder, crime rates, FBI says",
         "link": "http://www.detroitnews.com/story/news/local/wayne-county/2014/11/10/detroit-led-us-murder-crime-rates-fbi-says/18793923/",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "November 11, 2014",
+        "author": "Christine MacDonald",
         "body": "here's the body of this article"
       }
     },
@@ -449,8 +431,7 @@
         185,
         77
       ],
-      "hover_img": "img/rect19_hover.png",
-      "click_img": "img/rect19_clicked.png",
+      "click_img": "img/overlays/rect19_clicked.png",
       "query_terms": [
         "opportunity",
         "detroit",
@@ -460,8 +441,8 @@
         "type": "article",
         "title": "How Two Billionaires are Remaking Detroit in Their Flawed Image",
         "link": "http://gawker.com/how-two-billionaires-are-remaking-detroit-in-their-flaw-1700397768?utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "April 29, 2015",
+        "author": "Peter Moskowitz",
         "body": "here's the body of this article"
       }
     },
@@ -473,8 +454,7 @@
         38,
         116
       ],
-      "hover_img": "img/rect20_hover.png",
-      "click_img": "img/rect20_clicked.png",
+      "click_img": "img/overlays/rect20_clicked.png",
       "query_terms": [
         "detroit",
         "transit system",
@@ -484,8 +464,8 @@
         "type": "article",
         "title": "Region’s transit system can’t get many to job centers",
         "link": "http://www.freep.com/story/opinion/columnists/stephen-henderson/2015/02/22/detroit-bus-transit/23775245/",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "February 22, 2015",
+        "author": "Stephen Henderson and Kristi Tanner",
         "body": "here's the body of this article"
       }
     },
@@ -497,8 +477,7 @@
         67,
         116
       ],
-      "hover_img": "img/rect21_hover.png",
-      "click_img": "img/rect21_clicked.png",
+      "click_img": "img/overlays/rect21_clicked.png",
       "query_terms": [
         "detroit",
         "urban decay"
@@ -507,8 +486,8 @@
         "type": "article",
         "title": "How Detroit Became the World Capital of Staring at Abandoned Old Buildings",
         "link": "http://www.nytimes.com/2012/11/11/magazine/how-detroit-became-the-world-capital-of-staring-at-abandoned-old-buildings.html?_r=0",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "November 9, 2012",
+        "author": "Mark Binelli",
         "body": "here's the body of this article"
       }
     },
@@ -520,8 +499,7 @@
         73,
         116
       ],
-      "hover_img": "img/rect22_hover.png",
-      "click_img": "img/rect22_clicked.png",
+      "click_img": "img/overlays/rect22_clicked.png",
       "query_terms": [
         "detroit",
         "EAA",
@@ -531,8 +509,8 @@
         "type": "article",
         "title": "Fixing Detroit’s Broken School System",
         "link": "http://educationnext.org/fixing-detroits-broken-school-system/",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": " ",
+        "author": "Robin J. Lake, Ashley Jochim and Michael DeArmond",
         "body": "here's the body of this article"
       }
     },
@@ -544,8 +522,7 @@
         73,
         116
       ],
-      "hover_img": "img/rect23_hover.png",
-      "click_img": "img/rect23_clicked.png",
+      "click_img": "img/overlays/rect23_clicked.png",
       "query_terms": [
         "detroit",
         "water",
@@ -556,8 +533,8 @@
         "type": "article",
         "title": "1000 foot water slide to splash in metro Detroit",
         "link": "http://www.freep.com/story/news/local/michigan/detroit/2015/04/08/detroit-giant-water-slide/25490955/",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "April 8, 2015",
+        "author": "Bill Laitner",
         "body": "here's the body of this article"
       }
     },
@@ -569,8 +546,7 @@
         27,
         44
       ],
-      "hover_img": "img/rect24_hover.png",
-      "click_img": "img/rect24_clicked.png",
+      "click_img": "img/overlays/rect24_clicked.png",
       "query_terms": [
         "mike duggan",
         "detroit",
@@ -580,8 +556,8 @@
         "type": "article",
         "title": "Detroit Mayor Delivers on Vow to 'Improve Detroit' Through Tech",
         "link": "http://nextcity.org/daily/entry/can-a-mobile-app-really-improve-detroit",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "April 10, 2015",
+        "author": "Jenn Stanley",
         "body": "here's the body of this article"
       }
     },
@@ -593,8 +569,7 @@
         34,
         54
       ],
-      "hover_img": "img/rect25_hover.png",
-      "click_img": "img/rect25_clicked.png",
+      "click_img": "img/overlays/rect25_clicked.png",
       "query_terms": [
         "detroit",
         "financial state",
@@ -604,8 +579,8 @@
         "type": "article",
         "title": "After Detroit, Kevyn Orr says he's not sure what's next",
         "link": "http://www.freep.com/story/news/local/detroit-bankruptcy/2014/12/10/kevyn-orr-next-job/20219385/",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "December 10, 2014",
+        "author": "Matt Helms",
         "body": "here's the body of this article"
       }
     },
@@ -617,8 +592,7 @@
         50,
         56
       ],
-      "hover_img": "img/rect26_hover.png",
-      "click_img": "img/rect26_clicked.png",
+      "click_img": "img/overlays/rect26_clicked.png",
       "query_terms": [
         "detroit",
         "dan gilbert",
@@ -629,8 +603,8 @@
         "type": "article",
         "title": "Detroit Is Dan Gilbert Territory",
         "link": "http://recode.net/2015/02/10/detroit-is-dan-gilbert-territory/",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "February 10, 2015",
+        "author": "Liz Gannes",
         "body": "here's the body of this article"
       }
     },
@@ -642,8 +616,7 @@
         50,
         56
       ],
-      "hover_img": "img/rect27_hover.png",
-      "click_img": "img/rect27_clicked.png",
+      "click_img": "img/overlays/rect27_clicked.png",
       "query_terms": [
         "detroit",
         "blight",
@@ -653,8 +626,8 @@
         "type": "article",
         "title": "'It's scary when we can do this out of love and there's nothing you can threaten us with'",
         "link": "http://www.ethanzuckerman.com/blog/2015/03/06/its-scary-when-we-can-do-this-out-of-love-and-theres-nothing-you-can-threaten-us-with/",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "March 6, 2015",
+        "author": "Ethan Zuckerman",
         "body": "here's the body of this article"
       }
     },
@@ -666,8 +639,7 @@
         65,
         27
       ],
-      "hover_img": "img/rect28_hover.png",
-      "click_img": "img/rect28_clicked.png",
+      "click_img": "img/overlays/rect28_clicked.png",
       "query_terms": [
         "detroit",
         "water",
@@ -677,8 +649,8 @@
         "type": "article",
         "title": "Detroit's water payments should become income based",
         "link": "http://www.detroitnews.com/story/opinion/2015/03/24/detroit-needs-water-affordability-plan/70340458/",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "March 24, 2015",
+        "author": "Gloria House and Shea Howell",
         "body": "here's the body of this article"
       }
     },
@@ -690,8 +662,7 @@
         50,
         39
       ],
-      "hover_img": "img/rect29_hover.png",
-      "click_img": "img/rect29_clicked.png",
+      "click_img": "img/overlays/rect29_clicked.png",
       "query_terms": [
         "grace lee boggs",
         "detroit",
@@ -701,8 +672,8 @@
         "type": "article",
         "title": "Becoming Detroit: Reimagining Work, Food, and Community",
         "link": "http://www.onbeing.org/program/becoming-detroit-grace-lee-boggs-on-reimagining-work-food-and-community/1060",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "July 18, 2013",
+        "author": "Krista Tippett",
         "body": "here's the body of this article"
       }
     },
@@ -714,8 +685,7 @@
         36,
         41
       ],
-      "hover_img": "img/rect30_hover.png",
-      "click_img": "img/rect30_clicked.png",
+      "click_img": "img/overlays/rect30_clicked.png",
       "query_terms": [
         "park",
         "cleanup",
@@ -725,8 +695,8 @@
         "type": "article",
         "title": "Detroit Mower Gang: Cleaning Up Detroit One Park at a Time",
         "link": "http://chevydetroit.com/detroit-mower-gang-cleaning-up-detroit-one-park-at-a-time/",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "July 29, 2014",
+        "author": "Ryan O'Bleness",
         "body": "here's the body of this article"
       }
     },
@@ -738,8 +708,7 @@
         39,
         55
       ],
-      "hover_img": "img/rect31_hover.png",
-      "click_img": "img/rect31_clicked.png",
+      "click_img": "img/overlays/rect31_clicked.png",
       "query_terms": [
         "detroit",
         "bike",
@@ -749,8 +718,8 @@
         "type": "article",
         "title": "Jason Hall: Co-founder of Detroit Bike City",
         "link": "http://www.blacdetroit.com/BLAC-Detroit/May-2014/Jason-Hall-Co-founder-of-Detroit-Bike-City/",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "May 2014",
+        "author": "Megan Krueger",
         "body": "here's the body of this article"
       }
     },
@@ -762,8 +731,7 @@
         37,
         53
       ],
-      "hover_img": "img/rect32_hover.png",
-      "click_img": "img/rect32_clicked.png",
+      "click_img": "img/overlays/rect32_clicked.png",
       "query_terms": [
         "detroit",
         "lifestyle",
@@ -773,8 +741,8 @@
         "type": "article",
         "title": "Detroit vs. Everybody: Mending the Fabric of a City",
         "link": "https://deanbarber.wordpress.com/2013/08/25/detroit-vs-everybody-mending-the-fabric-of-a-city/",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "August 25, 2013",
+        "author": "Dean Barber",
         "body": "here's the body of this article"
       }
     },
@@ -786,8 +754,7 @@
         149,
         51
       ],
-      "hover_img": "img/rect33_hover.png",
-      "click_img": "img/rect33_clicked.png",
+      "click_img": "img/overlays/rect33_clicked.png",
       "query_terms": [
         "detroit",
         "professionals",
@@ -797,8 +764,8 @@
         "type": "article",
         "title": "It’s 2 p.m. Do you know where your commuters are?",
         "link": "http://www.michigansuburbsalliance.org/2013/06/05/its-2-p-m-do-you-know-where-your-commuters-are-2/",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "June 5, 2013",
+        "author": "Richard Murphy",
         "body": "here's the body of this article"
       }
     },
@@ -810,8 +777,7 @@
         65,
         51
       ],
-      "hover_img": "img/rect34_hover.png",
-      "click_img": "img/rect34_clicked.png",
+      "click_img": "img/overlays/rect34_clicked.png",
       "query_terms": [
         "detroit",
         "millennials"
@@ -820,8 +786,8 @@
         "type": "article",
         "title": "Detroit: It’s not a blank slate",
         "link": "http://mashable.com/2015/03/01/detroit-new-people/",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "March 1, 2015",
+        "author": "Britany Robinson",
         "body": "here's the body of this article"
       }
     },
@@ -833,8 +799,7 @@
         73,
         53
       ],
-      "hover_img": "img/rect35_hover.png",
-      "click_img": "img/rect35_clicked.png",
+      "click_img": "img/overlays/rect35_clicked.png",
       "query_terms": [
         "detroit",
         "demographic",
@@ -844,8 +809,8 @@
         "type": "article",
         "title": "Gentrification and Race: Can We Have a Real Conversation?",
         "link": "http://www.metrotimes.com/Blogs/archives/2015/04/28/gentrification-and-race-can-we-have-a-real-conversation",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "April 28, 2015",
+        "author": "Bill Wylie-Kellermann",
         "body": "here's the body of this article"
       }
     },
@@ -857,8 +822,7 @@
         102,
         52
       ],
-      "hover_img": "img/rect36_hover.png",
-      "click_img": "img/rect36_clicked.png",
+      "click_img": "img/overlays/rect36_clicked.png",
       "query_terms": [
         "new yorkers",
         "detroit",
@@ -868,8 +832,8 @@
         "type": "article",
         "title": "New York Hipsters are being encouraged to move to Detroit",
         "link": "http://www.businessinsider.com/move-to-detroit-campaign-in-new-york-2015-4",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "April 24, 2015",
+        "author": "Megan Willett",
         "body": "here's the body of this article"
       }
     },
@@ -881,8 +845,7 @@
         63,
         52
       ],
-      "hover_img": "img/rect37_hover.png",
-      "click_img": "img/rect37_clicked.png",
+      "click_img": "img/overlays/rect37_clicked.png",
       "query_terms": [
         "detroit",
         "gentrification",
@@ -892,8 +855,8 @@
         "type": "article",
         "title": "Detroit’s gentrification won’t give poor citizens reliable public services",
         "link": "http://www.theguardian.com/public-leaders-network/2015/feb/17/detroit-gentrification-poverty-public-services-race-divide",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "February 17, 2015",
+        "author": "Brian Doucet",
         "body": "here's the body of this article"
       }
     },
@@ -905,8 +868,7 @@
         90,
         52
       ],
-      "hover_img": "img/rect38_hover.png",
-      "click_img": "img/rect38_clicked.png",
+      "click_img": "img/overlays/rect38_clicked.png",
       "query_terms": [
         "detroit",
         "buildings",
@@ -917,8 +879,8 @@
         "type": "article",
         "title": "Fisher Building in Detroit to hit auction block in June",
         "link": "http://www.freep.com/story/money/real-estate/2015/03/04/fisher-building-detroit-auction-kahn/24347217/",
-        "date": "January 7, 2014",
-        "author": "John author",
+        "date": "March 4, 2015",
+        "author": "Dan Austin",
         "body": "here's the body of this article"
       }
     }
