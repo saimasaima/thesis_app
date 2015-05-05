@@ -1,0 +1,1090 @@
+{
+  "canvas_width": 1024,
+  "canvas_width": 416,
+  "sections": [
+    {
+      "section": "rect 1",
+      "coords": [
+        27,
+        20,
+        100,
+        132
+      ],
+      "hover_img": "img/rect1_hover.png",
+      "click_img": "img/rect1_clicked.png",
+      "query_terms": [
+        "blight",
+        "detroit",
+        "homes",
+        "eviction"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Detroit Just Had the Single Largest Tax Foreclosure in American History",
+        "link": "http://www.motherjones.com/politics/2015/04/low-income-black-and-elderly-residents-detroit-isnt-city-rise-one-under-siege",
+        "date": "April 21, 2015",
+        "author": "Laura Gottesdiener",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 2",
+      "coords": [
+        142,
+        32,
+        238,
+        120
+      ],
+      "hover_img": "img/rect2_hover.png",
+      "click_img": "img/rect2_clicked.png",
+      "query_terms": [
+        "detroit",
+        "urban decay",
+        "ruin porn"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "How Detroit Became the World Capital of Staring at Abandoned Old Buildings",
+        "link": "http://www.nytimes.com/2012/11/11/magazine/how-detroit-became-the-world-capital-of-staring-at-abandoned-old-buildings.html?_r=0",
+        "date": "November 9, 2012",
+        "author": "Mark Binelli",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 3",
+      "coords": [
+        404,
+        20,
+        100,
+        167
+      ],
+      "hover_img": "img/rect3_hover.png",
+      "click_img": "img/rect3_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex",
+        "graffiti war"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "While artist Sintex fights ‘culture vultures,’ Detroit gears up for a graffiti crackdown",
+        "link": "http://www.metrotimes.com/detroit/while-artist-sintex-fights-culture-vultures-detroit-gears-up-for-a-graffiti-crackdown/Content?oid=2297092",
+        "date": "February 4, 2015",
+        "author": "Lee Devito",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 4",
+      "coords": [
+        527,
+        19,
+        88,
+        76
+      ],
+      "hover_img": "img/rect4_hover.png",
+      "click_img": "img/rect4_clicked.png",
+      "query_terms": [
+        "detroit",
+        "urban farming",
+        "hantz farm",
+        "free labor"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "The Assassination of Detroit",
+        "link": "https://www.jacobinmag.com/2014/10/the-assassination-of-detroit/",
+        "date": "October 14, 2014",
+        "author": "Carlos Salazar",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 5",
+      "coords": [
+        639,
+        22,
+        110,
+        57
+      ],
+      "hover_img": "img/rect5_hover.png",
+      "click_img": "img/rect5_clicked.png",
+      "query_terms": [
+        "detroit",
+        "compuware",
+        "dan gilbert",
+        "jobs"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Detroit is Dan Gilbert Territory",
+        "link": "http://recode.net/2015/02/10/detroit-is-dan-gilbert-territory/",
+        "date": "May 20, 2014",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 6",
+      "coords": [
+        548,
+        79,
+        81,
+        111
+      ],
+      "hover_img": "img/rect6_hover.png",
+      "click_img": "img/rect6_clicked.png",
+      "query_terms": [
+        "detroit",
+        "vacant",
+        "land"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Soon You Can Buy Vacant Lots in Detroit for $100 Each",
+        "link": "http://detroit.jalopnik.com/soon-you-can-buy-vacant-lots-in-detroit-for-100-each-1578952126",
+        "date": "May 20, 2014",
+        "author": "Aaron Foley",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 7",
+      "coords": [
+        640,
+        103,
+        110,
+        46
+      ],
+      "hover_img": "img/rect7_hover.png",
+      "click_img": "img/rect7_clicked.png",
+      "query_terms": [
+        "detroit",
+        "downtown",
+        "development"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Detroit’s Downtown Revitalization? Bring Some of That Out to the Neighborhoods",
+        "link": "http://www.governing.com/topics/urban/detroits-downtown-revitalization-bring-some-of-that-out.html",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 8",
+      "coords": [
+        769,
+        20,
+        365,
+        172
+      ],
+      "hover_img": "img/rect8_hover.png",
+      "click_img": "img/rect8_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "It’s 2 p.m. Do you know where your commuters are?",
+        "link": "http://www.michigansuburbsalliance.org/2013/06/05/its-2-p-m-do-you-know-where-your-commuters-are-2/",
+        "date": "June 5, 2013",
+        "author": "Richard Murphy",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 9",
+      "coords": [
+        1133,
+        108,
+        83,
+        111
+      ],
+      "hover_img": "img/rect9_hover.png",
+      "click_img": "img/rect9_clicked.png",
+      "query_terms": [
+        "detroit",
+        "dan gilbert",
+        "savior"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "What kind of track records do Quicken Loans and Dan Gilbert have in Detroit? Does anyone really care?",
+        "link": "http://www.metrotimes.com/detroit/what-kind-of-track-record-does-quicken-loans-have-in-detroit-does-anyone-really-care/Content?oid=2266383",
+        "date": "November 12, 2014",
+        "author": "Ryan Felton",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 10",
+      "coords": [
+        1306,
+        22,
+        226,
+        100
+      ],
+      "hover_img": "img/rect10_hover.png",
+      "click_img": "img/rect10_clicked.png",
+      "query_terms": [
+        "detroit",
+        "gentrification",
+        "abandoned",
+        "rebrand"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Détroit, très Brooklyn!",
+        "link": "http://infinitemiledetroit.com/Detroit,_tres_Brooklyn_examining_gentrification_and_Detroit.html",
+        "date": "May 2014",
+        "author": "Ryan Harte",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 11",
+      "coords": [
+        1553,
+        22,
+        131,
+        101
+      ],
+      "hover_img": "img/rect11_hover.png",
+      "click_img": "img/rect11_clicked.png",
+      "query_terms": [
+        "detroit",
+        "opportunity detroit",
+        "dan gilbert"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "How Two Billionaires are Remaking Detroit in Their Flawed Image",
+        "link": "http://gawker.com/how-two-billionaires-are-remaking-detroit-in-their-flaw-1700397768?utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow",
+        "date": "April 29, 2015",
+        "author": "Peter Moskowitz",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 12",
+      "coords": [
+        1692,
+        22,
+        208,
+        160
+      ],
+      "hover_img": "img/rect12_hover.png",
+      "click_img": "img/rect12_clicked.png",
+      "query_terms": [
+        "detroit",
+        "fire hydrant",
+        "problem"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "18 notable buildings in Detroit with out-of-service hydrants",
+        "link": "http://motorcitymuckraker.com/2015/03/09/here-are-18-notable-buildings-in-detroit-with-out-of-service-hydrants/",
+        "date": "March 9, 2015",
+        "author": "Peter Moskowitz",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 13",
+      "coords": [
+        25,
+        174,
+        354,
+        223
+      ],
+      "hover_img": "img/rect13_hover.png",
+      "click_img": "img/rect13_clicked.png",
+      "query_terms": [
+        "detroit",
+        "two detroits",
+        "gentrification"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "The Two Detroits: a city both collapsing and gentrifying at the same time",
+        "link": "http://www.theguardian.com/cities/2015/feb/05/detroit-city-collapsing-gentrifying",
+        "date": "February 5, 2015",
+        "author": "Peter Moskowitz",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 14",
+      "coords": [
+        236,
+        336,
+        143,
+        87
+      ],
+      "hover_img": "img/rect14_hover.png",
+      "click_img": "img/rect14_clicked.png",
+      "query_terms": [
+        "detroit",
+        "foreclosure",
+        "depopulation"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "A Foreclosure Conveyor Belt: the Continuing Depopulation of Detroit",
+        "link": "http://www.alternet.org/how-banks-are-driving-depopulation-detroit",
+        "date": "April 19, 2015",
+        "author": "Laura Gottesdiener",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 15",
+      "coords": [
+        404,
+        194,
+        100,
+        193
+      ],
+      "hover_img": "img/rect15_hover.png",
+      "click_img": "img/rect15_clicked.png",
+      "query_terms": [
+        "detroit",
+        "transit system",
+        "jobs"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Region’s transit system can’t get many to job centers",
+        "link": "http://www.freep.com/story/opinion/columnists/stephen-henderson/2015/02/22/detroit-bus-transit/23775245/",
+        "date": "February 22, 2015",
+        "author": "Stephen Henderson Kristi Tanner",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 16",
+      "coords": [
+        531,
+        192,
+        146,
+        45
+      ],
+      "hover_img": "img/rect16_hover.png",
+      "click_img": "img/rect16_clicked.png",
+      "query_terms": [
+        "detroit",
+        "business",
+        "eviction"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Detroit’s downtown business owners say the ‘good times’ aren’t for them",
+        "link": "http://www.metrotimes.com/detroit/detroits-downtown-business-owners-say-the-good-times-arent-for-them/Content?oid=2300224",
+        "date": "February 18, 2015",
+        "author": "Alysa Offman",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 17",
+      "coords": [
+        517,
+        225,
+        117,
+        114
+      ],
+      "hover_img": "img/rect17_hover.png",
+      "click_img": "img/rect17_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 18",
+      "coords": [
+        771,
+        174,
+        297,
+        249
+      ],
+      "hover_img": "img/rect18_hover.png",
+      "click_img": "img/rect18_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 19",
+      "coords": [
+        1118,
+        218,
+        112,
+        44
+      ],
+      "hover_img": "img/rect19_hover.png",
+      "click_img": "img/rect19_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 20",
+      "coords": [
+        1119,
+        259,
+        107,
+        103
+      ],
+      "hover_img": "img/rect20_hover.png",
+      "click_img": "img/rect20_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 21",
+      "coords": [
+        1214,
+        152,
+        316,
+        164
+      ],
+      "hover_img": "img/rect21_hover.png",
+      "click_img": "img/rect21_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 22",
+      "coords": [
+        1552,
+        152,
+        346,
+        145
+      ],
+      "hover_img": "img/rect22_hover.png",
+      "click_img": "img/rect22_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 23",
+      "coords": [
+        24,
+        432,
+        72,
+        217
+      ],
+      "hover_img": "img/rect23_hover.png",
+      "click_img": "img/rect23_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 24",
+      "coords": [
+        100,
+        432,
+        125,
+        217
+      ],
+      "hover_img": "img/rect24_hover.png",
+      "click_img": "img/rect24_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 25",
+      "coords": [
+        230,
+        432,
+        134,
+        217
+      ],
+      "hover_img": "img/rect25_hover.png",
+      "click_img": "img/rect25_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 26",
+      "coords": [
+        369,
+        432,
+        136,
+        217
+      ],
+      "hover_img": "img/rect26_hover.png",
+      "click_img": "img/rect26_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 27",
+      "coords": [
+        513,
+        379,
+        125,
+        79
+      ],
+      "hover_img": "img/rect27_hover.png",
+      "click_img": "img/rect27_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 28",
+      "coords": [
+        576,
+        470,
+        51,
+        82
+      ],
+      "hover_img": "img/rect28_hover.png",
+      "click_img": "img/rect28_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 29",
+      "coords": [
+        628,
+        486,
+        64,
+        102
+      ],
+      "hover_img": "img/rect29_hover.png",
+      "click_img": "img/rect29_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 30",
+      "coords": [
+        694,
+        437,
+        109,
+        84
+      ],
+      "hover_img": "img/rect30_hover.png",
+      "click_img": "img/rect30_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 31",
+      "coords": [
+        844,
+        516,
+        94,
+        105
+      ],
+      "hover_img": "img/rect31_hover.png",
+      "click_img": "img/rect31_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 32",
+      "coords": [
+        940,
+        531,
+        113,
+        96
+      ],
+      "hover_img": "img/rect32_hover.png",
+      "click_img": "img/rect32_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 33",
+      "coords": [
+        1040,
+        456,
+        72,
+        57
+      ],
+      "hover_img": "img/rect33_hover.png",
+      "click_img": "img/rect33_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 34",
+      "coords": [
+        1114,
+        401,
+        101,
+        45
+      ],
+      "hover_img": "img/rect34_hover.png",
+      "click_img": "img/rect34_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 35",
+      "coords": [
+        1226,
+        392,
+        122,
+        51
+      ],
+      "hover_img": "img/rect35_hover.png",
+      "click_img": "img/rect35_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 36",
+      "coords": [
+        1206,
+        483,
+        94,
+        74
+      ],
+      "hover_img": "img/rect36_hover.png",
+      "click_img": "img/rect36_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 37",
+      "coords": [
+        1447,
+        477,
+        68,
+        76
+      ],
+      "hover_img": "img/rect37_hover.png",
+      "click_img": "img/rect37_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 38",
+      "coords": [
+        1527,
+        480,
+        73,
+        104
+      ],
+      "hover_img": "img/rect38_hover.png",
+      "click_img": "img/rect38_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 39",
+      "coords": [
+        1813,
+        467,
+        69,
+        100
+      ],
+      "hover_img": "img/rect39_hover.png",
+      "click_img": "img/rect39_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 40",
+      "coords": [
+        37,
+        665,
+        279,
+        95
+      ],
+      "hover_img": "img/rect40_hover.png",
+      "click_img": "img/rect40_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 41",
+      "coords": [
+        357,
+        667,
+        122,
+        95
+      ],
+      "hover_img": "img/rect41_hover.png",
+      "click_img": "img/rect41_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 42",
+      "coords": [
+        1195,
+        654,
+        137,
+        99
+      ],
+      "hover_img": "img/rect42_hover.png",
+      "click_img": "img/rect42_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 43",
+      "coords": [
+        1360,
+        654,
+        192,
+        97
+      ],
+      "hover_img": "img/rect43_hover.png",
+      "click_img": "img/rect43_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 44",
+      "coords": [
+        1570,
+        654,
+        119,
+        97
+      ],
+      "hover_img": "img/rect44_hover.png",
+      "click_img": "img/rect44_clicked.png",
+      "query_terms": [
+        "detroit",
+        "grcc",
+        "sintex"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "Curated Article title",
+        "link": "http://curated.com/thisarticle",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    },
+    {
+      "section": "rect 45",
+      "coords": [
+        1715,
+        654,
+        169,
+        97
+      ],
+      "hover_img": "img/rect45_hover.png",
+      "click_img": "img/rect45_clicked.png",
+      "query_terms": [
+        "detroit",
+        "professionals",
+        "commute"
+      ],
+      "featured": {
+        "type": "article",
+        "title": "title",
+        "link": "link",
+        "date": "January 7, 2014",
+        "author": "John author",
+        "body": "here's the body of this article"
+      }
+    }
+  ]
+}
