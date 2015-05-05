@@ -155,7 +155,7 @@ function drawSectionImage(thisSection, idx){
     resetAll();
     console.log('>>> sending search query: '+searchQuery);
     socket.emit('news-search', searchQuery);
-    image(img, thisSection.coords[0], thisSection.coords[1]);
+    image(img, thisSection.coords[0], thisSection.coords[1], thisSection.coords[2], thisSection.coords[3] );
   });
 }
 
@@ -189,7 +189,7 @@ function refreshBgImg(){
 
   //draw all the images that have already been clicked on!
   sectionImgsRevealed.forEach(function(thisImage, idx){
-    image(thisImage.image, thisImage.section.coords[0], thisImage.section.coords[1]);
+    image(thisImage.image, thisImage.section.coords[0], thisImage.section.coords[1], thisSection.coords[2], thisSection.coords[3] );
   })  
 }
 
