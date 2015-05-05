@@ -4,8 +4,9 @@
   "dependencies": {
     "colors": "^1.0.3",
     "express": "^4.10.1",
+    "google-news": "~1.4.6",
+    "moment": "^2.10.2",
     "node-twitter": "^0.5.2",
-    "socket.io": "^1.2.1",
-    "google-news": "~1.4.6"
+    "socket.io": "^1.2.1"
   }
 }
