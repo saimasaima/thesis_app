@@ -6,33 +6,35 @@
 		<script src="/socket.io/socket.io.js"></script>
 		<script type = 'text/javascript'> var socket= io(); </script>
 		<script src="http://code.jquery.com/jquery-1.11.1.js"></script>
-		<style src="/css/site_global.css"></style>
 		<style> iframe{ border: none; } </style>
 
 		<script>
-		function setUpFrame() { 
-		    var frame = window.frames['p5canvas'];
-		    frame.yourMethod('hello', socket);
-		}
+		// function setUpFrame() { 
+		//     var frame = window.frames['p5canvas'];
+		//     frame.yourMethod('hello', socket);
+		// }
 		</script>
 	</head>
+	<center>
+	<body style="width:1024px;">
+		<div id="wrapper">
+			<!-- processing sketch/canvas is stored in an iFrame: -->
+			<!-- NOTE: the size of the canvas is declared here:  -->
+			<!-- TODO: see if we can update this dynamically!!!! -->
+			<iframe name="p5canvas" src="./myCanvas.html" width="1024px" height="416px"></iframe>
 
-	<body>
+			<br><br><hr><br>
 
-		<!-- processing sketch/canvas is stored in an iFrame: -->
-		<!-- NOTE: the size of the canvas is declared here: -->
-		<iframe name="p5canvas" src="./myCanvas.html" width="2000px" height="500"></iframe>
-
-		<br><br><hr><br>
-
-		<!-- this is like a "button" somewhere -->
-		<a href='#' class="load-news">[ click to load news articles ]</a> 
-		
-		<!-- this will hold news articles -->
-		<p class='article'></p>
-		
-		<!-- sockets + data ! -->
-		<script src="./js/myDataController.js"></script>
+			<!-- this is like a "button" somewhere -->
+			<p> [ articles below !! ]</p>
+			<!-- <a href='#' class="load-news">[ click to load news articles ]</a>  -->
+			
+			<!-- this will hold news articles -->
+			<p class='article'></p>
+			
+			<!-- sockets + data ! -->
+			<script src="./js/myDataController.js"></script>
+		</div>
 	</body>
-
+	</center>
 </html>

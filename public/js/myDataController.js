@@ -2,7 +2,12 @@
 $(document).ready(function() {
   //anything that needs to load AFTER the page has loaded...
   console.log("loaded myDataController");
+  $('p5canvas').width(jsonData.canvas_width);
+  $('p5canvas').height(jsonData.canvas_height);
 });
+
+var jsonData = {};
+
 
 
 //**********************************************
@@ -55,6 +60,8 @@ function resetAll(){
 
 socket.on('initData', function (data) {
   console.log('data controller got init');
+  jsonData = data;
+
   // console.log('got init data: '+JSON.stringify(data));
   
 });
@@ -72,8 +79,16 @@ socket.on('tweet', function (data) {
 
 // Whenever the server passes a news article:
 socket.on("article", function(thisArticle){
-  console.log(thisArticle);
+  // console.log(thisArticle);
   $(".article").append(thisArticle); //append to the class .article in index.html
 });
 
 //*********************************************
+
+// >>>> init the painting p5 canvas <<<<<<
+
+function setUpFrame() { 
+  var frame = window.frames['p5canvas'];
+
+  frame.yourMethod(jsonData, resetAll, socket);
+}
