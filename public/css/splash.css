@@ -9,13 +9,13 @@ body {
   background-size: 100%;
   font-family: Helvetica;
   padding-top: 0px;
-  height: 5369px;
+  /*height: 1000px;*/
 }
 
 section {
   position: relative;
   top: 400px;
-  height: 3085px;
+  height: 1000px;
   margin: 0 auto;
 }
 
@@ -69,6 +69,7 @@ p {
 	margin:0 auto; 
 	height:50px; 
 	padding:35px 5px 5px 5px; 
+	margin-bottom:400px;
 	background-color: blue;
 }
 
