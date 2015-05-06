@@ -7,7 +7,8 @@ project info should go here.
 
 ##Installation and Setup
 ####for development
-1.`$ git clone https://github.com/saimasaima/thesis_app.git`
+1. pull the repo, install libs, run app.
+* `$ git clone https://github.com/saimasaima/thesis_app.git`
 * `$ cd /thesis_app`
 * `$ npm install`
 * `$ nodemon app.js`
