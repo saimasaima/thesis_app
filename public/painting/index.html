@@ -1,0 +1,50 @@
+
+<html>
+
+	<head>
+		<title>Oldie Painting</title>
+		<script src="/socket.io/socket.io.js"></script>
+		<script type = 'text/javascript'> var socket= io(); </script>
+		<script src="http://code.jquery.com/jquery-1.11.1.js"></script>
+		<style> iframe{ border: none; } </style>
+		<LINK href="../css/painting.css" rel="stylesheet" type="text/css">
+	</head>
+
+	<body>
+		<div class="center">
+			<!-- processing sketch/canvas is stored in an iFrame: -->
+			<!-- NOTE: the size of the canvas is declared here:  -->
+			<!-- TODO: see if we can update this dynamically!!!! -->
+			<iframe name="p5canvas" src="./myCanvas.html" width="1024px" height="416px"></iframe>
+
+			<br><!-- <br><hr> -->
+
+			<!-- description -->
+			<center>
+			<p class='blurb'>
+				<strong><span class="title"></span></strong>
+				<span class="description">Click on the painting to begin!</span>
+			</p>
+			</center>
+			<!-- this is like a "button" somewhere -->
+			<!-- <p> [ articles below !! ]</p> -->
+			<!-- <a href='#' class="load-news">[ click to load news articles ]</a>  -->
+			
+			<!-- this will hold news articles -->
+			<p class='article'></p>
+			<!-- this will hold featured content -->
+			<p class='featured'>
+
+				<a class='featured-link' href=''><span class="featured-title"></span></a>
+				<span class="featured-summary"></span><br>
+				<span class="featured-author"></span><br>
+				<span class="featured-body"></span><br>
+				<span class="featured-tweets"></span>
+			</p>
+
+			
+			<!-- sockets + data ! -->
+			<script src="./../js/myDataController.js"></script>
+		</div>
+	</body>
+</html>

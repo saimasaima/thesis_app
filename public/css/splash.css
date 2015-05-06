@@ -56,12 +56,20 @@ p {
 	position: absolute;
 	top: 875px;
 	left: 0;
-	background-image: url('logo.png');	
+	background-image: url('./../img/splash_images/logo.png');	
 	background-repeat: no-repeat;
 	width: 1024px;
 	margin-left: 185px;
 
 	
+}
+
+#painting-button {
+	width:250px; 
+	margin:0 auto; 
+	height:50px; 
+	padding:35px 5px 5px 5px; 
+	background-color: blue;
 }
 
 /*.info2 {

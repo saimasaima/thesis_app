@@ -5,7 +5,7 @@ project info should go here.
 
 [http://oldiebutanewd.com](http://oldiebutanewd.com)
 
-#Installation and Setup
+##Installation and Setup
 ####for development
 1. clone repo
 * `cd /to/repo/folder`
@@ -29,4 +29,16 @@ project info should go here.
 * `pm2 stop all`
 
 ---
-#Credits
+##Updating Server 
+
+1. login to server
+  * `$ ssh iot@oldiebutanewd.com`
+2. change directory to repo
+  * `$ cd thesis_app`
+3. pull the latest from github
+  * `$ git pull origin master`
+4. restart the app via PM2
+  * `$ pm2 restart all`
+
+--- 
+##Credits
