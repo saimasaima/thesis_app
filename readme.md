@@ -17,16 +17,17 @@ project info should go here.
 1. login to server
 * `$ git clone https://github.com/saimasaima/thesis_app.git`
 * `$ cd /to/repo/folder`
-* `npm install`
-* `npm install pm2 -g`
+* `$ npm install`
+* `$ npm install pm2 -g`
 
 ####PM2 Commands
 
-[Server Process Manager](https://github.com/Unitech/pm2)
+[PM2 Server Process Manager](https://github.com/Unitech/pm2)
 
 * `$ pm2 start app.js`
 * `$ pm2 dump`
 * `$ pm2 restart all`
+* `$ pm2 list`
 * `$ pm2 logs`
 * `$ pm2 stop all`
 
@@ -35,7 +36,7 @@ project info should go here.
 ##Updating Server 
 
 1. login to server
-  * `$ ssh iot@oldiebutanewd.com`
+  * `$ ssh USERNAME@oldiebutanewd.com`
 2. change directory to repo
   * `$ cd thesis_app`
 3. pull the latest from github
