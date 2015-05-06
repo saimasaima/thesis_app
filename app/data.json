@@ -224,10 +224,10 @@
     {
       "section": "rect 10",
       "coords": [
-        604,
-        66,
-        44,
-        51
+        697,
+        12,
+        121,
+        53
       ],
       "hover_img": "img/overlays/rect10_hover.png",
       "click_img": "img/overlays/rect10_clicked.png",
@@ -249,7 +249,7 @@
     {
       "section": "rect 11",
       "coords": [
-        697,
+        828,
         12,
         70,
         54
