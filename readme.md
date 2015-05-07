@@ -1,7 +1,7 @@
 Oldie but a New D
 ===
 
-project info should go here.
+Oldie But A New D is an informational web art piece connecting the glory of Detroit with the realities of Detroit today. This project allows one to become aware of the cultural and economic changes Detroit is facing currently. Oldie but a New D uses Diego Rivera’s Detroit Industry Murals as a figurative and literal framework to show the comparison.
 
 [http://oldiebutanewd.com](http://oldiebutanewd.com)
 
