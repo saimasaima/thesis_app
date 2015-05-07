@@ -65,12 +65,12 @@ p {
 }
 
 #painting-button {
-	width:250px; 
+	width:100px; 
 	margin:0 auto; 
-	height:50px; 
+	height:25px; 
 	padding:35px 5px 5px 5px; 
 	margin-bottom:400px;
-	background-color: blue;
+	background-color: black;
 }
 
 /*.info2 {
